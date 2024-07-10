@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HMmadYpDz58=",
+  "dgSpecHash": "giNAspoLZyI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\josh.wallace\\repos\\training\\SemanticKernel_App_Template\\NewestSemanticKernelApp.csproj",
+  "projectFilePath": "C:\\Users\\josh.wallace\\repos\\training\\Recipe_Wizard_SemanticKernel_App\\RecipeWizardApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\josh.wallace\\.nuget\\packages\\azure.ai.openai\\1.0.0-beta.15\\azure.ai.openai.1.0.0-beta.15.nupkg.sha512",
     "C:\\Users\\josh.wallace\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

@@ -5519,11 +5519,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\josh.wallace\\repos\\training\\SemanticKernel_App_Template\\NewestSemanticKernelApp.csproj",
-      "projectName": "NewestSemanticKernelApp",
-      "projectPath": "C:\\Users\\josh.wallace\\repos\\training\\SemanticKernel_App_Template\\NewestSemanticKernelApp.csproj",
+      "projectUniqueName": "C:\\Users\\josh.wallace\\repos\\training\\Recipe_Wizard_SemanticKernel_App\\RecipeWizardApp.csproj",
+      "projectName": "RecipeWizardApp",
+      "projectPath": "C:\\Users\\josh.wallace\\repos\\training\\Recipe_Wizard_SemanticKernel_App\\RecipeWizardApp.csproj",
       "packagesPath": "C:\\Users\\josh.wallace\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\josh.wallace\\repos\\training\\SemanticKernel_App_Template\\obj\\",
+      "outputPath": "C:\\Users\\josh.wallace\\repos\\training\\Recipe_Wizard_SemanticKernel_App\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
